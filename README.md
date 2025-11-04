@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Devikrishna
+# Hi there 👋, I'm Devi Krishna
 
 Welcome to my GitHub profile!
 
