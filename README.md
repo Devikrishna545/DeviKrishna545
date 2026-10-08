@@ -1,34 +1,53 @@
-# Hi there 👋, I'm Devi Krishna
+<h1 align="center">Hi, I'm Devi Krishna 👋</h1>
 
-Welcome to my GitHub profile!
+<p align="center">
+  Electronics engineer and software developer building practical web and AI-powered solutions.
+  I enjoy turning ideas into useful applications and keep learning by creating and shipping.
+</p>
+
+<p align="center">
+  <a href="mailto:devikrishna545@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/devi-krishna-u-89b708121">LinkedIn</a> ·
+  <a href="https://github.com/Devikrishna545">GitHub</a>
+</p>
 
 ## About Me
-- Lifelong learner passionate about technology and innovation
-- Coding enthusiast with experience in C#, .NET, Python, React, Angular, HTML, CSS, and JavaScript
-- Always open to collaboration and new opportunities
-- Currently exploring Machine Learning, Data Science, Artificial Intelligence, RAG, LLMs, and GenAI
 
-## Current Focus
-- Building and improving my current projects
-- Expanding my skills in modern web development and AI-powered solutions
-- Learning by shipping practical, real-world applications
+- Experienced with C#, .NET, Python, React, Angular, HTML, CSS, and JavaScript
+- Exploring machine learning, data science, AI, RAG, LLMs, and generative AI
+- Always open to collaboration and new opportunities
+
+## Projects
+
+> Add your project names, summaries, and repository links below.
+
+- **[Project name](#)** — Briefly describe what it does and the technologies you used.
+- **[Project name](#)** — Briefly describe the problem it solves and your contribution.
+- **[Project name](#)** — Briefly describe a result or feature you're proud of.
+
+## Currently Working On
+
+[![AI & Generative AI](https://img.shields.io/badge/Exploring-AI%20%26%20Generative%20AI-6C63FF?style=for-the-badge)](#)
+[![RAG & LLMs](https://img.shields.io/badge/Learning-RAG%20%26%20LLMs-4B8BBE?style=for-the-badge)](#)
+[![Web Development](https://img.shields.io/badge/Building-Web%20Applications-2E8B57?style=for-the-badge)](#)
 
 ## Skills
-- **Programming:** C#, Python, HTML, CSS, JavaScript
-- **Frameworks & Tools:** .NET Core, ASP.NET, React, Angular
-- **Cloud & DevOps:** Azure
-- **Other:** SQL, PostgreSQL
+
+| Area | Technologies |
+| --- | --- |
+| Programming | C#, Python, HTML, CSS, JavaScript |
+| Frameworks & tools | .NET Core, ASP.NET, React, Angular |
+| Cloud & DevOps | Azure |
+| Data | SQL, PostgreSQL |
 
 ## GitHub Stats
-![Devikrishna545's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devikrishna545&show_icons=true&theme=radical)
 
-## Connect with Me
-- Email: devikrishna545@gmail.com
-- LinkedIn: https://www.linkedin.com/in/devi-krishna-u-89b708121
+![Devikrishna545's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devikrishna545&show_icons=true&theme=tokyonight)
 
-## Fun Fact
-- Electronics engineer fascinated by emerging technologies
+## A Little More
+
+Electronics engineer fascinated by emerging technologies.
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
+Thanks for stopping by! Explore my repositories and feel free to connect.
